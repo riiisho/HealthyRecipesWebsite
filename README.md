@@ -19,19 +19,19 @@ The initial website design must have 5 pages. Two of the pages must be a landing
 
 <p align="center">
 Wireframe Mockup: Responsive Design for Index Page<br/>
-<img src="https://i.imgur.com/EraCXeN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EraCXeN.png" height="80%" width="80%" alt="Wireframe Mockup for Index Page"/>
 <br />
 <br />
 Wireframe Mockup: Responsive Design for Recipe Pages<br/>
-<img src="https://i.imgur.com/XxK2jeO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XxK2jeO.png" height="80%" width="80%" alt="Wireframe Mockup for Recipe Pages"/>
 <br />
 <br />
 Wireframe Mockup: Responsive Design for Account Page<br/>
-<img src="https://i.imgur.com/Rlp8e91.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rlp8e91.png" height="80%" width="80%" alt="Wireframe Mockup for Account Page"/>
 <br />
 <br />
 Colour Palette<br/>
-<img src="https://i.imgur.com/JH5hjTf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JH5hjTf.png" height="80%" width="80%" alt="Colour Palette for Website"/>
 <br />
 <br />
 </p>
@@ -40,15 +40,15 @@ Colour Palette<br/>
 
 <p align="center">
 Index Page<br/>
-<img src="https://i.imgur.com/sAVrSyM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sAVrSyM.png" height="80%" width="80%" alt="Screenshot of Index Page"/>
 <br />
 <br />
 Recipe Pages<br/>
-<img src="https://i.imgur.com/Z2uFvBQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z2uFvBQ.png" height="80%" width="80%" alt="Screenshot of Recipe Pages"/>
 <br />
 <br />
 Account Page<br/>
-<img src="https://i.imgur.com/mLIfzpf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mLIfzpf.png" height="80%" width="80%" alt="Screenshot of Account Page"/>
 <br />
 <br />
 </p>
